@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Explore01</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Explore02</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Explore03</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Explore04</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Explore05</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Explore06</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Explore07</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+</Defs>

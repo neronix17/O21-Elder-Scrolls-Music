@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Noodles_Planetfall/Noodle_Planetfall_a"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Noodles_Planetfall/Noodle_Planetfall_b"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Noodles_Planetfall/Noodle_Planetfall_c"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Noodles_Planetfall/Noodle_Planetfall_d"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Noodles_Planetfall/Noodle_Planetfall_e"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/A_New_Day"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Noodles_Starscape/Noodle_Starscape_a"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Noodles_Starscape/Noodle_Starscape_b"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Noodles_Starscape/Noodle_Starscape_c"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Noodles_Starscape/Noodle_Starscape_d"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Noodles_Starscape/Noodle_Starscape_e"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Noodles_Starscape/Noodle_Starscape_f"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Noodles_Mirage/Noodle_Mirage_b"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Noodles_Mirage/Noodle_Mirage_c"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Noodles_Mirage/Noodle_Mirage_d"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Noodles_Mirage/Noodle_Mirage_e"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/I_Like_It_Here"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Cruel_Sunrise"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Terraformer"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Moving_On"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Night_And_Day"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Tribal_Assembly"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Ice_Shaman"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Barnstar"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Ceta"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Alpaca"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Jovian_Cycle"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Rough_Trail"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Moon_Harvest"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Space_Junk"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/These_Lands"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Gathering_In"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Seasons_Turn"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/What_Gravity"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Relax/Traces"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Tension/Here_It_Comes"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Tension/Close_The_Gates"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Tension/Riding_Out"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Tension/Dont_Freeze_Up"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/SongDef[clipPath="Songs/Tension/Chaos_Bringer"]</xpath>
+	</Operation>
+
+</Patch>

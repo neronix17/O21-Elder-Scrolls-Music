@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Royalty</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/SongDef[clipPath="Songs/Relax/Alignment"]</xpath>
+				</li>
+
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/SongDef[clipPath="Songs/Relax/Architect"]</xpath>
+				</li>
+
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/SongDef[clipPath="Songs/Relax/Believe"]</xpath>
+				</li>
+
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/SongDef[clipPath="Songs/Relax/Block_Universe"]</xpath>
+				</li>
+
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/SongDef[clipPath="Songs/Relax/Detatched_Viewpoint"]</xpath>
+				</li>
+
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/SongDef[clipPath="Songs/Relax/Fealty"]</xpath>
+				</li>
+
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/SongDef[clipPath="Songs/Relax/Information_Entropy"]</xpath>
+				</li>
+
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/SongDef[clipPath="Songs/Relax/Meditate"]</xpath>
+				</li>
+
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/SongDef[clipPath="Songs/Relax/Mind_Map"]</xpath>
+				</li>
+
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/SongDef[clipPath="Songs/Relax/On_The_Surface"]</xpath>
+				</li>
+
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/SongDef[clipPath="Songs/Relax/String_Theory"]</xpath>
+				</li>
+
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/SongDef[clipPath="Songs/Relax/Succession"]</xpath>
+				</li>
+
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/SongDef[clipPath="Songs/Tension/Baselius"]</xpath>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+
+</Patch>

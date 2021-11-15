@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle01</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle02</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle03</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle04</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle05</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle07</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle08</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+</Defs>

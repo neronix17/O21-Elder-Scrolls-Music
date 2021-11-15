@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/SongDef[defName="EntrySong"]/clipPath</xpath>
+		<value>
+    		<clipPath>ElderScrollsMusic/Misc/TitleCredits</clipPath>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/SongDef[defName="EndCreditsSong"]/clipPath</xpath>
+		<value>
+    		<clipPath>ElderScrollsMusic/Misc/TitleCredits</clipPath>
+		</value>
+	</Operation>
+
+</Patch>
