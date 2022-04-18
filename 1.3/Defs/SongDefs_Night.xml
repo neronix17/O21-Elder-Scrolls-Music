@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Night01</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Night02</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Night03</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Night04</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Night05</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+</Defs>

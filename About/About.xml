@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>[O21] Elder Scrolls - Soundtrack</name>
-	<description>Elder Scrolls music overhaul for the game, removes vanilla music and replaces it with music from various sources.</description>
+	<description>Elder Scrolls music overhaul for the game, removes vanilla music and replaces it with music from both Morrowind and Oblivion.</description>
 	<author>Neronix17</author>
-	<packageId>neronix17.elderscrolls.music</packageId>
+	<packageId>Neronix17.ElderScrolls.Music</packageId>
 	<url></url>
 	<supportedVersions>
 		<li>1.3</li>

@@ -36,4 +36,39 @@
 		<volume>0.85</volume>
 	</SongDef>
 
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Explore08</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Explore09</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Explore10</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Explore11</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Explore12</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Explore13</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Gameplay/Explore14</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
 </Defs>

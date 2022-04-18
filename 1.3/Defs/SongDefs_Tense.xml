@@ -32,6 +32,12 @@
 	</SongDef>
 
 	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle06</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
 		<clipPath>ElderScrollsMusic/Tension/Battle07</clipPath>
 		<volume>1.0</volume>
 		<tense>true</tense>
@@ -39,6 +45,54 @@
 
 	<SongDef>
 		<clipPath>ElderScrollsMusic/Tension/Battle08</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle09</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle10</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle11</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle12</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle13</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle14</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle15</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>ElderScrollsMusic/Tension/Battle16</clipPath>
 		<volume>1.0</volume>
 		<tense>true</tense>
 	</SongDef>
